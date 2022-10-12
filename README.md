@@ -1,6 +1,6 @@
-- 👋 Hey, I'm Jake, a computer science student going into my 4th year. Previously worked @ Delphi Tech Corporation as a Software Development intern (Co-op)
-- 👀 Interests include mods for games, web development, UX design and user experience
-- 🌱 I’m currently learning about operating systems and app development
+- 👋 Hey, I'm Jake, a computer science student going in my 4th year. Previously worked @ Seisware International Ltd. & @ Delphi Tech Corporation as a Junior Software Developer (Co-op)
+- 👀 Interests include mods for games, C++ with .Net, web development, UX design and user experience (HCI)
+- 🌱 I’m currently learning about computer networks
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me - jakebroggy@gmail.com
 
